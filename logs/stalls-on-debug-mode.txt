@@ -1,0 +1,48 @@
+EMBRACE DEBUG
+
+2020-09-04 16:40:21.772006+0200 Cameo[7244:113426] <Warning>: Please set a value for FacebookAutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-ios#disable-auto-events.
+2020-09-04 16:40:21.773372+0200 Cameo[7244:113426] <Warning>: You haven't set a value for FacebookAdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-ios#disable-auto-events.
+2020-09-04 16:40:21.879362+0200 Cameo[7244:113426] You've implemented -[<UIApplicationDelegate> application:performFetchWithCompletionHandler:], but you still need to add "fetch" to the list of your supported UIBackgroundModes in your Info.plist.
+flipper: FlipperClient::addPlugin Inspector
+flipper: FlipperClient::addPlugin Preferences
+flipper: FlipperClient::addPlugin React
+flipper: FlipperClient::addPlugin Network
+2020-09-04 16:40:24.304756+0200 Cameo[7244:113426] [plugin] AddInstanceForFactory: No factory registered for id <CFUUID 0x60000121ee40> F8BB1C28-BAE8-11D6-9C31-00039315CD46
+2020-09-04 16:40:24.503 [info][tid:main][RCTRootView.m:294] Running application main ({
+    initialProps =     {
+    };
+    rootTag = 1;
+})
+2020-09-04 16:40:24.537825+0200 Cameo[7244:113426] [Embrace] Reading config from plist file Embrace-Info.plist
+2020-09-04 16:40:24.552007+0200 Cameo[7244:113426] [Embrace] Using Embrace crash reporting
+2020-09-04 16:40:24.555988+0200 Cameo[7244:113426] [Embrace] Error reading main.jsBundle file: caught NSInvalidArgumentException: *** -[NSURL initFileURLWithPath:]: nil string parameter
+2020-09-04 16:40:24.568 [warn][tid:NSOperationQueue 0x7ff7c7e06480 (QOS: UNSPECIFIED)][RCTModuleData.mm:290] RCTBridge required dispatch_sync to load RCTDevLoadingView. This may lead to deadlocks
+2020-09-04 16:40:24.677172+0200 Cameo[7244:114077] [Embrace] Debugger is attached.
+2020-09-04 16:40:24.682121+0200 Cameo[7244:114090] [Embrace] Current session is nil in background update
+2020-09-04 16:40:24.701363+0200 Cameo[7244:114077] [Embrace] Embrace SDK enabled. Version: 5.0.3
+2020-09-04 16:40:24.703622+0200 Cameo[7244:113426] [Embrace] SDK started successfully with key QiKDn
+2020-09-04 16:40:24.704 [info][tid:main][RNBranchConfig.m:111] Could not find branch.json in app bundle.
+2020-09-04 16:40:24.704948+0200 Cameo[7244:114084] [branch.io] Branch.m(194) Log: Branch version 0.34.0 started at 2020-09-04 14:40:24 +0000.
+2020-09-04 16:40:24.705089+0200 Cameo[7244:114084] [branch.io] Branch.m(404) Warning: You are using your test app's Branch Key. Remember to change it to live Branch Key for production deployment.
+2020-09-04 16:40:24.736666+0200 Cameo[7244:114077] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:40:24.736764+0200 Cameo[7244:113426] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:40:24.737064+0200 Cameo[7244:114077] [Client] Updating selectors after delegate addition failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:40:24.738233+0200 Cameo[7244:113426] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:40:24.738480+0200 Cameo[7244:114096] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:40:24.739446+0200 Cameo[7244:113426] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connec2020-09-04 16:40:24.739636+0200 Cameo[7244:114077] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+tion to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:40:24.747174+0200 Cameo[7244:114084] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:40:24.748242+0200 Cameo[7244:114084] [Client] Updating selectors after delegate removal failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:40:24.778875+0200 Cameo[7244:113426] [MediaRemote] [AVOutputContext] WARNING: AVF context unavailable for +[MRAVOutputContext sharedAudioPresentationContext]_block_invoke
+2020-09-04 16:40:24.779105+0200 Cameo[7244:113426] [MediaRemote] [AVOutputContext] WARNING: AVF context unavailable for SYSTEM
+2020-09-04 16:40:24.844 [info][tid:main][RCTCxxBridge.mm:1070] Invalidating <RCTCxxBridge: 0x7ff7c7e0fdd0> (parent: <RCTBridge: 0x600003f440e0>, executor: RCTWebSocketExecutor)
+2020-09-04 16:40:25.806314+0200 Cameo[7244:113426] [Embrace] Using Embrace crash reporting
+2020-09-04 16:40:26.279 [info][tid:main][RCTRootView.m:294] Running application main ({
+    initialProps =     {
+    };
+    rootTag = 11;
+})
+2020-09-04 16:40:26.302096+0200 Cameo[7244:114215] [] nw_socket_handle_socket_event [C16.1:1] Socket SO_ERROR [61: Connection refused]
+2020-09-04 16:40:26.309996+0200 Cameo[7244:114215] [] nw_socket_handle_socket_event [C16.2:1] Socket SO_ERROR [61: Connection refused]
+2020-09-04 16:40:26.320150+0200 Cameo[7244:114091] [] nw_connection_get_connected_socket [C16] Client called nw_connection_get_connected_socket on unconnected nw_connection
+2020-09-04 16:40:26.320597+0200 Cameo[7244:114091] TCP Conn 0x6000021412c0 Failed : error 0:61 [61]

@@ -1,0 +1,80 @@
+WITHOUT EMBRACE
+
+2020-09-04 16:45:02.112935+0200 Cameo[7358:117774] <Warning>: Please set a value for FacebookAutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-ios#disable-auto-events.
+2020-09-04 16:45:02.113359+0200 Cameo[7358:117774] <Warning>: You haven't set a value for FacebookAdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-ios#disable-auto-events.
+2020-09-04 16:45:02.258215+0200 Cameo[7358:117774] You've implemented -[<UIApplicationDelegate> application:performFetchWithCompletionHandler:], but you still need to add "fetch" to the list of your supported UIBackgroundModes in your Info.plist.
+flipper: FlipperClient::addPlugin Inspector
+flipper: FlipperClient::addPlugin Preferences
+flipper: FlipperClient::addPlugin React
+flipper: FlipperClient::addPlugin Network
+2020-09-04 16:45:03.281165+0200 Cameo[7358:117774] [plugin] AddInstanceForFactory: No factory registered for id <CFUUID 0x600002aa6580> F8BB1C28-BAE8-11D6-9C31-00039315CD46
+2020-09-04 16:45:03.505 [info][tid:main][RCTRootView.m:294] Running application main ({
+    initialProps =     {
+    };
+    rootTag = 1;
+})
+2020-09-04 16:45:03.538 [info][tid:main][RNBranchConfig.m:111] Could not find branch.json in app bundle.
+2020-09-04 16:45:03.540006+0200 Cameo[7358:118637] [branch.io] Branch.m(194) Log: Branch version 0.34.0 started at 2020-09-04 14:45:03 +0000.
+2020-09-04 16:45:03.540207+0200 Cameo[7358:118637] [branch.io] Branch.m(404) Warning: You are using your test app's Branch Key. Remember to change it to live Branch Key for production deployment.
+2020-09-04 16:45:03.588 [warn][tid:NSOperationQueue 0x7ffd38c13370 (QOS: UNSPECIFIED)][RCTModuleData.mm:290] RCTBridge required dispatch_sync to load RCTDevLoadingView. This may lead to deadlocks
+2020-09-04 16:45:03.590177+0200 Cameo[7358:118640] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.590177+0200 Cameo[7358:117774] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.590377+0200 Cameo[7358:118640] [Client] Updating selectors after delegate addition failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.590864+0200 Cameo[7358:117774] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.590952+0200 Cameo[7358:118640] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.592048+0200 Cameo[7358:117774] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.592228+0200 Cameo[7358:118640] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.593751+0200 Cameo[7358:118640] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.594157+0200 Cameo[7358:118640] [Client] Updating selectors after delegate removal failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated." UserInfo={NSDebugDescription=The connection to service on pid 0 named com.apple.commcenter.coretelephony.xpc was invalidated.}
+2020-09-04 16:45:03.644141+0200 Cameo[7358:117774] [MediaRemote] [AVOutputContext] WARNING: AVF context unavailable for +[MRAVOutputContext sharedAudioPresentationContext]_block_invoke
+2020-09-04 16:45:03.644394+0200 Cameo[7358:117774] [MediaRemote] [AVOutputContext] WARNING: AVF context unavailable for SYSTEM
+2020-09-04 16:45:04.037772+0200 Cameo[7358:118641] [] nw_socket_handle_socket_event [C9.1:1] Socket SO_ERROR [61: Connection refused]
+2020-09-04 16:45:04.048075+0200 Cameo[7358:118641] [] nw_socket_handle_socket_event [C9.2:1] Socket SO_ERROR [61: Connection refused]
+2020-09-04 16:45:04.055897+0200 Cameo[7358:118735] [] nw_connection_get_connected_socket [C9] Client called nw_connection_get_connected_socket on unconnected nw_connection
+2020-09-04 16:45:04.056431+0200 Cameo[7358:118735] TCP Conn 0x6000019d6ac0 Failed : error 0:61 [61]
+2020-09-04 16:45:04.207 [info][tid:com.facebook.react.JavaScript] Running "main" with {"rootTag":1,"initialProps":{}}
+2020-09-04 16:45:04.251 [info][tid:com.facebook.react.JavaScript] We are gonna download
+2020-09-04 16:45:04.251 [info][tid:com.facebook.react.JavaScript] expo-asset about to downloadAsync from FS
+2020-09-04 16:45:04.257 [warn][tid:com.facebook.react.JavaScript] RCTBridge required dispatch_sync to load RCTDevLoadingView. This may lead to deadlocks
+2020-09-04 16:45:04.304690+0200 Cameo[7358:118637] blin blin 1
+2020-09-04 16:45:04.306775+0200 Cameo[7358:118637] blin blin 2
+2020-09-04 16:45:04.310557+0200 Cameo[7358:118637] blin blin 3
+2020-09-04 16:45:04.313 [info][tid:com.facebook.react.JavaScript] We finish the download
+
+RELOAD
+
+2020-09-04 16:49:15.476248+0200 Cameo[7358:117774] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+(
+    "<NSLayoutConstraint:0x600000cd4d70 UIView:0x7ffd38c4db70.width == - 16   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x600000cd4d70 UIView:0x7ffd38c4db70.width == - 16   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+2020-09-04 16:49:15.531970+0200 Cameo[7358:119598] [] nw_socket_handle_socket_event [C13.1:1] Socket SO_ERROR [61: Connection refused]
+2020-09-04 16:49:15.534322+0200 Cameo[7358:119598] [] nw_socket_handle_socket_event [C13.2:1] Socket SO_ERROR [61: Connection refused]
+2020-09-04 16:49:15.535938+0200 Cameo[7358:121291] [] nw_connection_get_connected_socket [C13] Client called nw_connection_get_connected_socket on unconnected nw_connection
+2020-09-04 16:49:15.536459+0200 Cameo[7358:121291] TCP Conn 0x6000019d8000 Failed : error 0:61 [61]
+2020-09-04 16:49:16.722 [info][tid:main][RCTCxxBridge.mm:1070] Invalidating <RCTCxxBridge: 0x7ffd39e11f70> (parent: <RCTBridge: 0x6000007c9650>, executor: (null))
+2020-09-04 16:49:16.948583+0200 Cameo[7358:121393] [] nw_socket_handle_socket_event [C16.1:1] Socket SO_ERROR [61: Connection refused]
+2020-09-04 16:49:16.950828+0200 Cameo[7358:121393] [] nw_socket_handle_socket_event [C16.2:1] Socket SO_ERROR [61: Connection refused]
+2020-09-04 16:49:16.953975+0200 Cameo[7358:121291] [] nw_connection_get_connected_socket [C16] Client called nw_connection_get_connected_socket on unconnected nw_connection
+2020-09-04 16:49:16.954323+0200 Cameo[7358:121291] TCP Conn 0x6000019dc540 Failed : error 0:61 [61]
+2020-09-04 16:49:17.105 [info][tid:main][RCTRootView.m:294] Running application main ({
+    initialProps =     {
+    };
+    rootTag = 11;
+})
+2020-09-04 16:49:17.110 [info][tid:com.facebook.react.JavaScript] Running "main" with {"rootTag":11,"initialProps":{}}
+2020-09-04 16:49:17.142 [info][tid:com.facebook.react.JavaScript] We are gonna download
+2020-09-04 16:49:17.143 [info][tid:com.facebook.react.JavaScript] expo-asset about to downloadAsync from FS
+2020-09-04 16:49:17.180726+0200 Cameo[7358:121393] blin blin 1
+2020-09-04 16:49:17.181169+0200 Cameo[7358:121393] blin blin 2
+2020-09-04 16:49:17.181591+0200 Cameo[7358:121393] blin blin 3
+2020-09-04 16:49:17.183 [info][tid:com.facebook.react.JavaScript] We finish the download

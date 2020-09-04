@@ -1,0 +1,10 @@
+{
+  "name": "embracestall",
+  "displayName": "embracestall",
+  "expo": {
+    "name": "embracestall",
+    "slug": "embracestall",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["assets/*"]
+  }
+}
