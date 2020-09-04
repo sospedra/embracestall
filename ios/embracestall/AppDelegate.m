@@ -57,7 +57,7 @@ static void InitializeFlipper(UIApplication *application) {
   #endif
 
   // Initialize Embrace
-  [[Embrace sharedInstance] startWithKey:@"" launchOptions:launchOptions framework:EMBAppFrameworkReactNative];
+  [[Embrace sharedInstance] startWithKey:@"INSERT_KEY" launchOptions:launchOptions framework:EMBAppFrameworkReactNative];
   
   [super application:application didFinishLaunchingWithOptions:launchOptions];
 

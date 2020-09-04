@@ -19,7 +19,7 @@ flipper: FlipperClient::addPlugin Network
 2020-09-04 16:37:52.710896+0200 Cameo[7152:110411] [Embrace] Debugger is attached.
 2020-09-04 16:37:52.739563+0200 Cameo[7152:110411] [Embrace] Embrace SDK enabled. Version: 5.0.3
 2020-09-04 16:37:52.742793+0200 Cameo[7152:110535] [Embrace] Current session is nil in background update
-2020-09-04 16:37:52.751573+0200 Cameo[7152:109456] [Embrace] SDK started successfully with key QiKDn
+2020-09-04 16:37:52.751573+0200 Cameo[7152:109456] [Embrace] SDK started successfully with key INSERT_KEY
 2020-09-04 16:37:52.755 [info][tid:main][RNBranchConfig.m:111] Could not find branch.json in app bundle.
 2020-09-04 16:37:52.757263+0200 Cameo[7152:110537] [branch.io] Branch.m(194) Log: Branch version 0.34.0 started at 2020-09-04 14:37:52 +0000.
 2020-09-04 16:37:52.757410+0200 Cameo[7152:110537] [branch.io] Branch.m(404) Warning: You are using your test app's Branch Key. Remember to change it to live Branch Key for production deployment.
